@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CrwD76PhVwg=",
+  "dgSpecHash": "QXrsneg+ijg=",
   "success": true,
-  "projectFilePath": "D:\\Fiap\\systemorder\\stocksystem\\src\\Estoque.Application-f\\Estoque.Application.csproj",
+  "projectFilePath": "D:\\Fiap\\systemorder\\stocksystem\\src\\Estoque.Application\\Estoque.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
